@@ -1,4 +1,4 @@
---/ Beginner links are provided in-case your unsure what you're doing.
+--/ esui
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         CHECK = {OWNER = "99921948219O12470512", STAND = "youarecorny" "LordStover"}, --/ Do not use UserId.
